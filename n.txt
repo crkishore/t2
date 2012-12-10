@@ -7,3 +7,5 @@ Changing for email notification
 trying again for email notify
 
 trying again and again
+
+checking author
